@@ -1,0 +1,43 @@
+.header{
+  background-color: dimgray;
+}
+ h2{
+  color: white;
+  font-size: 25px;
+  display: inline-block;
+  margin: 30px;
+}
+.conatiner{
+  background-color: white;
+}
+.nav{
+  width: 500px;
+  margin-left: 70px;
+  margin-right: 20px;
+  float: left;
+  display: inline-block;
+  margin-top: 50px;
+}
+
+.main{
+  width: 500px;
+  margin-right: 20px;
+  float: right;
+  display: inline-block;
+  margin-top: 30px;
+}
+.graybox{
+  width: 400px;
+  height: 300px;
+  background-color: lightgray;
+  margin: 20px;
+}
+.footer{
+  background-color: dimgray;
+  width: 1280px;
+  clear: both;
+  height: 50px;
+}
+.warpper{
+  margin: 40px;
+}
