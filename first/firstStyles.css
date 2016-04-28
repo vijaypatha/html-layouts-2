@@ -1,0 +1,56 @@
+
+.red1 {
+  background-color: red;
+  height: 200px;
+  width: 350px;
+  margin: 20px;
+  display: inline-block;
+}
+.blue1{
+  background-color: blue;
+  height: 200px;
+  width: 350px;
+  margin: 20px;
+  display: inline-block;
+}
+.dimgray1{
+  background-color: dimgray;
+  height: 200px;
+  width: 350px;
+  margin: 20px;
+  display: inline-block;
+}
+ .container2 {
+  margin: 25px;
+}
+.red2 {
+  background-color: red;
+  height: 350px;
+  width: 350px;
+  display: inline-block;
+}
+.blue2{
+  background-color: blue;
+  height: 350px;
+  width: 800px;
+  display: inline-block;
+}
+.blue3{
+  background-color: blue;
+  height: 250px;
+  width: 850px;
+  display: inline-block;
+  margin-left: 25px;
+}
+.dimgray3{
+  background-color: dimgray;
+  height: 250px;
+  width: 200px;
+  display: inline-block;
+}
+.red3 {
+  background-color: red;
+  height: 250px;
+  width: 50px;
+  display: inline-block;
+}
