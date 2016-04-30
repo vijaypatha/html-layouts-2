@@ -1,0 +1,67 @@
+body, html {
+  margin: 0;
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-color: dimgray;
+  background-image:url(backgroundIMG.jpeg);
+  background-size: cover;
+}
+header{
+  background-color: white;
+  position: absolute;
+  width: 100%;
+  top: 0;
+
+}
+
+}
+header p{
+  display: inline;
+  font-size: 2em;
+  margin: 20px;
+  color: black;
+}
+
+header a{
+  text-decoration: none;
+  color: black;
+}
+.name {
+  float: left;
+}
+.login{
+float: right;
+}
+section{
+  position: absolute;
+  margin-top: 200px;
+  margin-left: 430px;
+}
+section h3{
+  font-size: 2em;
+  color: white;
+  margin-left: 50px;
+}
+
+button {
+  width: 80px;
+  height: 30px;
+  margin-left: 120px;
+}
+
+section p{
+  color: white;
+  font-size: 25px;
+  text-align: center;
+  margin-right: 450px;
+
+}
+footer{
+  background-color: white;
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+
+}
